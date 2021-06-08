@@ -1,0 +1,61 @@
+.button{
+    background-color: grey;
+    border: 1px solid #eee;
+    color: white;
+    font-weight: bolder;
+    padding: .5em;
+    border-radius: .3em;
+    width: 300px;
+}
+
+a.button{
+    text-decoration: none;
+}
+a.button-sm{
+    padding: .2em;
+    font-size: smaller;
+}
+
+a.button-lg{
+    padding: 1em;
+}
+
+a.button-info{
+    background-color: rgb(60, 60, 87);
+}
+
+a.button-danger{
+    background-color: red;
+}
+
+
+
+
+.button-sm{
+    width: 100px; 
+}
+
+
+.button-simple-loader{
+
+  /*margin: 100px auto;
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  font-size: 10px;
+  */
+
+}
+
+/*.button-spinner {
+    background-color: #333;
+    height: 100%;
+    width: 6px;
+    display: inline-block;
+
+    animation: sk-stretchdelay 1.2s infinite ease-in-out;
+  }
+  */
+  
+  
+
